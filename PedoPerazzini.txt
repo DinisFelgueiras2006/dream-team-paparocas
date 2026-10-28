@@ -1,17 +1,17 @@
 Aluno: Pedo Perazzini
-Treinador: Leonardo Jardim
-Capitão: Léo Pereira
-Estádio: Maracanã
+Treinador: Pedro Mesquita
+Capitão: Joana Mesquita
+Estádio: Pateo Barceló
 
 Nº | Posição | Jogador
-1  | GR      | Agustín Rossi
-22 | DD      | Emerson Royal
-3  | DC      | Léo Ortiz
-4  | DC      | Léo Pereira
-26 | DE      | Alex Sandro
-21 | MC      | Jorginho
-5  | MC      | Erick Pulgar
-11 | MC      | Lucas Paquetá
-15 | PD      | Jorge Carrascal
-16 | PE      | Samuel Lino
-9  | ATA     | Pedro
+1  | GR      | Matilde
+22 | DD      | Clara
+3  | DC      | Casquinha
+4  | DC      | Joana Mesquita
+26 | DE      | Vvizinha
+21 | MC      | Madalena Damiao
+5  | MC      | Raquel
+11 | MC      | Marta Chefe
+15 | PD      | Maria Manuel
+16 | PE      | Maria Bi
+9  | ATA     | Joanna Hangai
