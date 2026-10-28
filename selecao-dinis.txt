@@ -1,19 +1,19 @@
 Ficha 
 Aluno: Dinis Felgueiras
-Treinador: Fernando Diniz
-Capitão: Gonzalo Plata 
-Estádio: Campo da Liberdade, Montijo
+Treinador: A colherzinha
+Capitão: Telha
+Estádio: D.Manuel
 
 Nº - Posição - Jogador
-1 - GR - Leo Jardim
-2 - DD - Rodinei 
-3 - DC - Tomas Jesus 
-4 - DC - Geromel 
-5 - DE - Reinaldo 
-6 - MC - Tche Tche 
-10 - MC - Ronaldo Henrique 
-8 - MC - Toni Kross 
-7 - ED - Caça Rato
-9 - PL - Valdu Te
-11 - EE - Jovane Cabral
+1 - GR - Zuzarte
+2 - DD - Telha
+3 - DC - Joana Mesquita
+4 - DC - Yasmin
+5 - DE - Francisca
+6 - MC - Daniela
+10 - MC - Menina Casada
+8 - MC - Gerevasio
+7 - ED - Leonor Bravo
+9 - PL - Manuela
+11 - EE - Namorado da Matilde
 
