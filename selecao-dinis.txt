@@ -1,0 +1,19 @@
+Ficha 
+Aluno: Dinis Felgueiras
+Treinador: Fernando Diniz
+Capitão: Gonzalo Plata 
+Estádio: Campo da Liberdade, Montijo
+
+Nº - Posição - Jogador
+1 - GR - Leo Jardim
+2 - DD - Rodinei 
+3 - DC - Tomas Jesus 
+4 - DC - Geromel 
+5 - DE - Reinaldo 
+6 - MC - Tche Tche 
+10 - MC - Ronaldo Henrique 
+8 - MC - Toni Kross 
+7 - ED - Caça Rato
+9 - PL - Valdu Te
+11 - EE - Jovane Cabral
+
