@@ -11,9 +11,9 @@ Nº - Posição - Jogador
 4 - DC - Yasmin
 5 - DE - Francisca
 6 - MC - Daniela
-10 - MC - Menina Casada
-8 - MC - Gerevasio
+10 - MC - Menina Casada obs pedaço de mal caminho
+8 - MC - Gerevasio obs verde
 7 - ED - Leonor Bravo
-9 - PL - Manuela
-11 - EE - Namorado da Matilde
+9 - PL - Manuela obs minha prima
+11 - EE - Namorado da Matilde obs rei
 
