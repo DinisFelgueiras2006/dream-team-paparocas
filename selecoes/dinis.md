@@ -1,0 +1,19 @@
+Ficha 
+Aluno: Dinis Felgueiras
+Treinador: A colherzinha
+Capitão: Telha
+Estádio: D.Manuel
+
+Nº - Posição - Jogador
+1 GR Zuzarte obs namorado da telha
+2 DD Telha obs namorado do zuzarte 
+3 DC Joana Mesquita obs Pedro Mesquita
+4 DC Yasmin obs mae do matheus
+5 DE Francisca obs gongas 
+6 MC Daniela obs pouco boa pessoa
+10 MC Menina Casada obs pedaço de mal caminho
+8 MC Gerevasio obs verde
+7 ED Leonor Bravo 
+9 PL Manuela obs minha prima
+11 EE Namorado da Matilde obs rei
+

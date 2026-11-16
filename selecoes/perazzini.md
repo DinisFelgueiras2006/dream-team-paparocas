@@ -1,0 +1,17 @@
+Aluno: Pedo Perazzini
+Treinador: Pedro Mesquita
+Capitão: Joana Mesquita
+Estádio: Pateo Barceló
+
+Nº | Posição | Jogador
+1 GR Matilde obs Michelin 2
+22 DD Clara obs Lesbica
+3 DC Casquinha
+4 DC Joana Mesquita obs filha do stor
+26 DE Vvizinha obs covarde
+21 MC Madalena Damiao
+5 MC Raquel obs do povo
+11 MC Anamar obs Michelin
+15 PD Maria Manuel obs namorada do Gui
+16 PE Maria Bi
+9 PL Joanna Hangai obs muito bem casada
