@@ -11,7 +11,7 @@ Nº - Posição - Jogador
 4 DC Cristovao Colombo
 5 DE Bartolomeu dias
 6 MC Ruben martins
-7 MC 
+7 MC Jervazio
 8 MC Jesus
 9 ED Mateus Nunes
 10 PL Pavlidis
