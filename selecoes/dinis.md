@@ -15,5 +15,5 @@ Nº - Posição - Jogador
 8 MC Gerevasio obs verde
 7 ED Leonor Bravo 
 9 PL Manuela obs minha prima
-11 EE Namorado da Matilde obs rei
+11 EE 
 
