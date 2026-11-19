@@ -1,7 +1,7 @@
 Ficha 
 Aluno: Dinis Felgueiras
 Treinador: A colherzinha
-Capitão: Telha
+Capitão: Beatriz Telha
 Estádio: D.Manuel
 
 Nº - Posição - Jogador
